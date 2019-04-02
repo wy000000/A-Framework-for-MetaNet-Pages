@@ -1,0 +1,2 @@
+# A-Framework-for-MetaNet-Pages
+I propose a draft of a framework for MetaNet Pages (or Sites). It includes four protocols M protocol, S protocol, N protocol and P protocol. M protocol allows MetaNet pages to be updated. S protocol provides a simple database protocol and allows MetaNet pages to be updated dynamically. N protocol allows us to access a MetaNet site by a short name. P protocol tells M browsers the IPs of MetaNet sites' servers. All information is stored on the blockchain.
